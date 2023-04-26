@@ -1,0 +1,35 @@
+h1{
+	text-align: center;
+}
+.td-izq{
+	
+	/*padding: 0px;
+	margin: 0px;
+	*/
+	width: 200px;
+	text-align: center;
+	color: blue;
+}
+.td-der{
+	width: 800px;
+
+}
+.tam-foto{
+	//display: inline-block;
+	width: 60px;
+	height: 60px;
+	display: block;
+	margin: auto;
+
+}
+.me-gusta{
+	/*
+	width: 90px;
+	height: 60px;
+	*/
+	width: 70px;
+	height: 30px;
+}
+.parrafo{
+	padding: 0px;
+}
